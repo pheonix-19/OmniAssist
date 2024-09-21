@@ -29,7 +29,7 @@ NEWS_API_KEY = os.getenv('NEWS_API_KEY')
 FIGMA_API_KEY = os.getenv('FIGMA_API_KEY')
 EMAIL_ADDRESS = os.getenv('EMAIL_ADDRESS')
 EMAIL_PASSWORD = os.getenv('EMAIL_PASSWORD')
-os.environ["SERPAPI_API_KEY"] = "7a0718dd8a8cb05dfe2928b51110dc9485a986d9d89dca7bc3922a1624da5173"
+os.environ["SERPAPI_API_KEY"] = "API-KEY"
 
 
 # Tool 1: Video to Notes
